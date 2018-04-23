@@ -21,6 +21,7 @@ ADD links.csv /notebooks/
 ADD movies_metadata.csv /notebooks/
 ADD ratings.csv /notebooks/
 ADD movies.csv /notebooks/
+ADD movies-tiles.jpg /notebooks/
 ADD Portfolio.ipynb /notebooks/
 
 EXPOSE 8888
